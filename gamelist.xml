@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./harley.zip</path>
+		<name>Harley-Davidson and L.A. Riders (Revision B)</name>
+		<playcount>1</playcount>
+		<lastplayed>20211005T061705</lastplayed>
+	</game>
+	<game>
+		<path>./eca.zip</path>
+		<name>Emergency Call Ambulance</name>
+		<playcount>1</playcount>
+		<lastplayed>20211005T063100</lastplayed>
+	</game>
+	<game>
+		<path>./fvipers2o.zip</path>
+		<name>fvipers2o</name>
+		<playcount>1</playcount>
+		<lastplayed>20211005T063232</lastplayed>
+	</game>
+	<game>
+		<path>./swtrilgy.zip</path>
+		<name>Star Wars Trilogy (Revision A)</name>
+		<playcount>1</playcount>
+		<lastplayed>20211005T064251</lastplayed>
+	</game>
+	<game>
+		<path>./oceanhun.zip</path>
+		<name>The Ocean Hunter</name>
+		<playcount>1</playcount>
+		<lastplayed>20211005T070902</lastplayed>
+	</game>
+	<game>
+		<path>./bassdx.zip</path>
+		<name>Sega Bass Fishing Deluxe (Japan)</name>
+		<playcount>1</playcount>
+		<lastplayed>20211005T073146</lastplayed>
+	</game>
+	<game>
+		<path>./daytona2.zip</path>
+		<name>Daytona USA 2 </name>
+		<video>./snaps/daytona2.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>17</playcount>
+		<lastplayed>20211005T053043</lastplayed>
+	</game>
+	<game>
+		<path>./dayto2pe.zip</path>
+		<name>Daytona USA 2 Power Edition</name>
+		<video>./snaps/dayto2pe.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>3</playcount>
+		<lastplayed>20211227T035310</lastplayed>
+	</game>
+	<game>
+		<path>./dirtdvls.zip</path>
+		<name>Dirt Devils </name>
+		<video>./snaps/dirtdvls.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>1</playcount>
+		<lastplayed>20211005T062726</lastplayed>
+	</game>
+	<game>
+		<path>./fvipers2.zip</path>
+		<name>Fighting Vipers 2 </name>
+		<video>./snaps/fvipers2.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>1</playcount>
+		<lastplayed>20211005T063738</lastplayed>
+	</game>
+	<game>
+		<path>./lamachin.zip</path>
+		<name>L.A. Machineguns</name>
+		<video>./snaps/lamachin.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>1</playcount>
+		<lastplayed>20211005T064624</lastplayed>
+	</game>
+	<game>
+		<path>./lemans24.zip</path>
+		<name>Le Mans 24</name>
+		<video>./snaps/lemans24.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>2</playcount>
+		<lastplayed>20211005T150631</lastplayed>
+	</game>
+	<game>
+		<path>./magtruck.zip</path>
+		<name>Magical Truck Adventure</name>
+		<video>./snaps/magtruck.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>2</playcount>
+		<lastplayed>20211005T151409</lastplayed>
+	</game>
+	<game>
+		<path>./scud.zip</path>
+		<name>Scud Race Twin </name>
+		<video>./snaps/scuda.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>2</playcount>
+		<lastplayed>20211227T210512</lastplayed>
+	</game>
+	<game>
+		<path>./srally2.zip</path>
+		<name>Sega Rally 2</name>
+		<video>./snaps/srally2.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>5</playcount>
+		<lastplayed>20211005T150235</lastplayed>
+	</game>
+	<game>
+		<path>./skichamp.zip</path>
+		<name>Ski Champ</name>
+		<video>./snaps/skichamp.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>1</playcount>
+		<lastplayed>20211005T071929</lastplayed>
+	</game>
+	<game>
+		<path>./spikeout.zip</path>
+		<name>Spikeout </name>
+		<video>./snaps/spikeout.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>6</playcount>
+		<lastplayed>20211005T054313</lastplayed>
+	</game>
+	<game>
+		<path>./lostwsga.zip</path>
+		<name>The Lost World </name>
+		<video>./snaps/lostwsga.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>1</playcount>
+		<lastplayed>20211005T065629</lastplayed>
+	</game>
+	<game>
+		<path>./vf3.zip</path>
+		<name>Virtua Fighter 3 </name>
+		<video>./snaps/vf3.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>5</playcount>
+		<lastplayed>20211227T040228</lastplayed>
+	</game>
+	<game>
+		<path>./vs2.zip</path>
+		<name>Virtua Striker 2 </name>
+		<video>./snaps/vs2.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>1</playcount>
+		<lastplayed>20211005T072436</lastplayed>
+	</game>
+	<game>
+		<path>./von2.zip</path>
+		<name>Virtual On 2: Oratorio Tangram</name>
+		<video>./snaps/von2.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>1</playcount>
+		<lastplayed>20211005T072944</lastplayed>
+	</game>
+</gameList>
